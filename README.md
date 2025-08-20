@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Mani  
+# 👋 Hey, I'm Mani (a.k.a. ManiWizard)
 
-🚀 I’m currently learning **Node.js** and building cool projects along the way.  
-💡 Passionate about web development, backend systems, and exploring how things work under the hood.  
+🚀 I’m currently learning **Node.js** and building cool projects as I go.  
+💡 Passionate about backend development, clean code, and exploring how things work under the hood.  
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack
 - **Languages:** JavaScript, Python (beginner)  
 - **Backend:** Node.js, Express  
 - **Databases:** MongoDB, MySQL  
@@ -13,19 +13,19 @@
 
 ---
 
-## 📈 GitHub Stats  
-![Mani's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)  
+## 📊 GitHub Stats
+![Mani's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManiWizard&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManiWizard&layout=compact&theme=tokyonight)  
 
 ---
 
-## 🌱 What I'm Learning  
-- Deep dive into **Node.js** internals  
+## 🌱 Currently Learning
+- Deep dive into **Node.js internals**  
 - Building REST APIs with **Express**  
-- Working with databases and authentication  
+- Working with **databases and authentication**  
 
 ---
 
-## 📫 Connect with Me  
-- GitHub: [YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)  
-- LinkedIn: [Your Name](https://linkedin.com/in/YOUR-LINKEDIN)  
+## 📫 Connect with Me
+- GitHub: [ManiWizard](https://github.com/ManiWizard)  
+- LinkedIn: *(add your link here if you’d like)*  
