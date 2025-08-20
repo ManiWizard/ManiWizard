@@ -52,18 +52,22 @@ I’m a backend-leaning developer learning **Node.js**. I value tidy APIs, clear
 ## 📊 Stats
 
 <p align="center">
-  <img alt="GitHub Streak" width="70%" src="https://streak-stats.demolab.com?user=ManiWizard&theme=tokyonight&hide_border=true" />
+  <a href="#"><img src="https://streak-stats.demolab.com?user=ManiWizard&theme=blood-dark&hide_border=true&border_radius=10&short_numbers=true&date_format=j%20M%5B%20Y%5D&type=png&no-bg=true" alt="GitHub Streak" /></a>
 </p>
-
-<p align="center">
-  <img alt="Top Languages" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManiWizard&layout=compact&theme=tokyonight&cache_seconds=86400" />
-  <img alt="Mani's GitHub stats" width="49%" src="https://github-readme-stats.vercel.app/api?username=ManiWizard&show_icons=true&theme=tokyonight&cache_seconds=86400" />
-</p>
-
 <details>
-  <summary><strong>🏆 Achievements (click to reveal)</strong></summary>
+  <summary><strong>👽 More stats... </strong></summary>
+<p align="center">
+  <img alt="Top Languages" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManiWizard&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400&no-bg=true" />
+  <img alt="Mani's GitHub stats" width="49%" src="https://github-readme-stats.vercel.app/api?username=ManiWizard&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400&no-bg=true" />
+</p>
+
+<p>
+    <img alt="Mani's GitHub stats Graph" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ManiWizard&theme=tokyo-night&hide_border=true&no-bg=true" />
+</p>
+
+
   <p>
-    <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=ManiWizard&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+    <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=ManiWizard&theme=tokyonight&column=-1&margin-w=8&no-bg=true&no-frame=true" />
   </p>
 </details>
 
