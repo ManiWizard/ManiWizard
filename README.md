@@ -52,12 +52,12 @@ I’m a backend-leaning developer learning **Node.js**. I value tidy APIs, clear
 ## 📊 Stats
 
 <p align="center">
-  <img alt="GitHub Streak" width="49%" src="https://streak-stats.demolab.com?user=ManiWizard&theme=tokyonight&hide_border=true" />
-  <img alt="Mani's GitHub stats" width="49%" src="https://github-readme-stats.vercel.app/api?username=ManiWizard&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+  <img alt="GitHub Streak" width="70%" src="https://streak-stats.demolab.com?user=ManiWizard&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img alt="Top Languages" width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManiWizard&layout=compact&theme=tokyonight&cache_seconds=86400" />
+  <img alt="Top Languages" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManiWizard&layout=compact&theme=tokyonight&cache_seconds=86400" />
+  <img alt="Mani's GitHub stats" width="49%" src="https://github-readme-stats.vercel.app/api?username=ManiWizard&show_icons=true&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 <details>
