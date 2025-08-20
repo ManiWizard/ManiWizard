@@ -12,6 +12,19 @@ I’m a backend-leaning developer learning **Node.js**. I value tidy APIs, clear
 
 ---
 
+## 🔧 Skills & Knowledge  
+
+### 📡 RouterOS / MikroTik  
+[![RouterOS](https://img.shields.io/badge/RouterOS-Intermediate-blue?logo=mikrotik&logoColor=white)](https://mikrotik.com)  
+- Configured **containers** (Pi-hole, X-UI/3x-ui) with environment variables & mounts.  
+- Managed **NAT, mangle, and firewall rules** for routing & access control.  
+- Built **IPv4/IPv6 tunnels** (6to4, IPIP) with policy-based routing.  
+- Integrated **Pi-hole DNS** with DHCP and LAN clients.  
+- Set up **connection tracking, watchdogs, and auto-restart scripts**.  
+- Troubleshooting with `/tool ping`, `/log print`, and resource stats.  
+
+---
+
 ## 🔧 Tech Stack 
 <p align="left">
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
